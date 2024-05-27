@@ -1,4 +1,6 @@
 # ChatBot
 
-A simple Chatbot app using .
+A simple Chatbot app implemented using deepInfra API.
+
+
 
